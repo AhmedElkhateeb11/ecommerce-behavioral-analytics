@@ -1,0 +1,38 @@
+# Python environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large local data
+data/
+output/
+logs/
+
+# Large generated files
+*.csv
+*.parquet
+*.jsonl
+*.zip
+*.tar
+*.gz
+*.tgz
+
+# Spark / Hadoop local files
+spark-warehouse/
+metastore_db/
+derby.log
+checkpoint/
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
