@@ -23,11 +23,11 @@ The final system can answer questions like:
 
 ## 2. Team Members
 
-| Name | ID |
-|---|---|
-| Add Name | Add ID |
-| Add Name | Add ID |
-| Add Name | Add ID |
+| Name | 
+
+| Ahmed Elkhateeb
+| Ahmed Sherif
+| Seif Matar
 
 ---
 
